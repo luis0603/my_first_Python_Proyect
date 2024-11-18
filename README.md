@@ -1,2 +1,2 @@
 # my_first_Python_Proyect
-This a proyect for learning Python language 
+This a project for learning Python language 
